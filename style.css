@@ -1,0 +1,61 @@
+.header{
+    background-color: rgb(110, 202, 172) ;
+
+    display: flex;
+    justify-content: space-between;
+    
+}
+.header p{
+    font-size: 20px;
+}
+.footer{
+    display: flex;
+    justify-content: flex-start;
+    background-color: rgb(110, 202, 172);
+}
+p{
+    color: darkslategray;
+    font-family: cursive;
+    font-size: 18px;
+}
+h1{
+    color: #ffffff;
+    font-family:cursive;
+    margin-left: 50px;;
+}
+.issue{
+    text-align: center;
+    justify-content: space-between;
+    display: flex;
+}
+.claim{
+    background-color:rgb(187, 243, 224);
+    justify-content: space-between;
+    text-align: center;
+}
+.action1{
+    text-align: center;
+    justify-content: space-between;
+    display: flex;
+}
+.action2{
+    text-align: center;
+    justify-content: space-between;
+    display: flex;
+}
+.action3{
+    text-align: center;
+    justify-content: space-between;
+    display: flex;
+}
+.action4{
+    text-align: center;
+    justify-content: space-between;
+    display: flex;
+}
+.endingStatement{
+    background-color:rgb(187, 243, 224) ;
+    text-align: center;
+    justify-content: space-between;
+    display: flex;
+}
